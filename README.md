@@ -1,2 +1,2 @@
 # test
-STM32 dosyları gelecek
+STM32 dosyaları gelecek
